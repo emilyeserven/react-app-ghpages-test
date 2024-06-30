@@ -4,6 +4,10 @@ I just wanted a template for some React and Tailwind that's deployable to GitHub
 - `npm run dev` - Runs locally
 - `npm run deploy` - Deploys to GitHub pages
 
+## REMEMBER
+
+To change the URL the repo can be accessed from, change `base` value in `vite.config.ts`.
+
 ## Created using...
 
 - https://tailwindcss.com/docs/guides/vite
