@@ -1,6 +1,18 @@
+I just wanted a template for some React and Tailwind that's deployable to GitHub pages.
+
+## Important Commands
+- `npm run dev` - Runs locally
+- `npm run deploy` - Deploys to GitHub pages
+
+## Created using...
+
 - https://tailwindcss.com/docs/guides/vite
 - https://dev.to/rashidshamloo/deploying-vite-react-app-to-github-pages-35hf
-- 
+
+---
+
+_Following is the default README_
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
